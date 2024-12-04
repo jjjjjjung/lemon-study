@@ -23,7 +23,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "node-sass": "^4.14.1",
     "notosans-fontface": "^1.2.2",
-    "postcss": "^7.0.35",
+    "postcss": "^7.0.36",
     "postcss-loader": "^3.0.0",
     "sass": "^1.32.12",
     "sass-loader": "^8.0.2",
